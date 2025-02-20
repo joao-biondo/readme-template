@@ -7,8 +7,6 @@
 
 <img src="paineira.png" alt="Paineira-Logo">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-
 ### Description
 
 ### Updates
@@ -32,7 +30,7 @@ To use <project_name>, follow the steps in the pnr-gui02/pnr-gui01 computers:
 <exemplo_de_uso>
 ```
 
-## 😄 Seja um dos contribuidores
+## 😄 Contact
 
 Any question/suggestions can be adressed to [email].
 
