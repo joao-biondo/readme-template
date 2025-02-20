@@ -1,7 +1,8 @@
 # Repo's Name
 
 ![python-badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pyqt-badge](https://img.shields.io/badge/PyQt5-blue)
+![pyqt-badge](https://img.shields.io/badge/PyQt5-blue?style=for-the-badge)
+
 
 
 <img src="paineira.png" alt="Paineira-Logo">
